@@ -10,13 +10,8 @@
 ```yaml
 name: Sahil Chhabra
 located_in: Uttar Preadesh, India
-education-status: 1st year undergraduate -Indian Institute of Technology, Varanasi
+education-status: 3rd year undergraduate -Indian Institute of Technology, Varanasi
 
-languages: ["C", "Python", "JavaScript", "HTML", "CSS"]
-
-technical_interests: ["Web-development", "Open-source"]
-
-currently_learning: ["Anything that I can"]
 ```
 
 
